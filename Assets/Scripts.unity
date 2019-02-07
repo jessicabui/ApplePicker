@@ -229,6 +229,17 @@ Prefab:
       propertyPath: m_RootOrder
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 114491494416404696, guid: 590089a78263f468a9a6f4508af6c5b8,
+        type: 2}
+      propertyPath: applePrefab
+      value: 
+      objectReference: {fileID: 1508119447937260, guid: d0828157695d64e11ae9b95f91fb25ff,
+        type: 2}
+    - target: {fileID: 54857293116992512, guid: 590089a78263f468a9a6f4508af6c5b8,
+        type: 2}
+      propertyPath: m_IsKinematic
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 590089a78263f468a9a6f4508af6c5b8, type: 2}
   m_IsPrefabAsset: 0
